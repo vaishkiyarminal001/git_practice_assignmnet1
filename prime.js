@@ -5,6 +5,8 @@ if (num%i==0){
 count++
 }
 }
-if (count==2){
+if (count==0){
 console.log("Yes");
+} else {
+ console.log("No");
 }
